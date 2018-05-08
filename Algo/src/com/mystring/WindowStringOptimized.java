@@ -8,6 +8,7 @@ import java.util.Queue;
 public class WindowStringOptimized {
 
 	HashMap<Character, Counter> hm = new HashMap<>();
+	
 
 	class Counter {
 		int count;
